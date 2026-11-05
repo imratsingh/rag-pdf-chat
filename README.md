@@ -6,6 +6,7 @@ app responds exactly: **Ye jawab document mein nahi mila.**
 
 ## Features
 
+- Custom dark interface with a focused PDF upload area and chat workspace.
 - Upload a PDF and chat with its extracted text.
 - Cite the one-based PDF page numbers used to answer each question.
 - Reject invalid, missing, and text-free (for example, scanned) PDFs.
